@@ -1,13 +1,13 @@
 vti_encoding:SR|utf8-nl
 vti_author:SR|Jemyma\\Randy-Cofie
-vti_modifiedby:SR|Q-Tek\\Administrator1
-vti_timelastmodified:TR|13 Feb 2014 14:08:48 -0000
+vti_modifiedby:SR|Jemyma\\Randy-Cofie
+vti_timelastmodified:TR|10 Mar 2014 16:28:32 -0000
 vti_timecreated:TR|26 Jan 2014 14:43:25 -0000
 vti_title:SR|Courses | GNWBLC
 vti_extenderversion:SR|12.0.0.0
 vti_backlinkinfo:VX|course.aspx default.html
 vti_nexttolasttimemodified:TW|31 Jan 2014 04:02:21 -0000
-vti_cacheddtm:TX|13 Feb 2014 14:08:48 -0000
+vti_cacheddtm:TX|10 Mar 2014 16:28:32 -0000
 vti_filesize:IR|19113
 vti_cachedtitle:SR|Courses | GNWBLC
 vti_cachedbodystyle:SR|<body>
